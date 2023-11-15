@@ -1,0 +1,2 @@
+# Praktikum-SIPD
+Trial WebGIS
